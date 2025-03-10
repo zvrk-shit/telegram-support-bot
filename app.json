@@ -14,10 +14,9 @@
         "description": "The name of your Heroku app. Yes, again. Just copy-paste it!"
       },
       "TELEGRAM_TOKEN": {
-        "description": "Your bot's token. Visit https://t.me/BotFather"
+        "description": 7296297495:AAGow4alM5OPlZQoyU2hGT0tE-dE9DSgVvs
       },
       "TELEGRAM_SUPPORT_CHAT_ID": {
-        "description": "Telegram chat_id where the bot will forward all incoming messages. If you want to know your chat_id - add this bot https://t.me/ShowJsonBot to your chat."
-      }
+        "description": 2345217130
     }
 }
